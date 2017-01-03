@@ -1,0 +1,24 @@
+{
+  "binary_file_patterns":
+  [
+  ],
+  "color_scheme": "Packages/User/SublimeLinter/base16-ocean.dark (SL).tmTheme",
+  "ensure_newline_at_eof_on_save": true,
+  "file_exclude_patterns":
+  [
+    "*.pyc"
+  ],
+  "folder_exclude_patterns":
+  [
+    "node_modules"
+  ],
+  "font_size": 14,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "sidebar_toggle_on_hover": true,
+  "tab_size": 2,
+  "theme": "Spacegray.sublime-theme",
+  "translate_tabs_to_spaces": true
+}
